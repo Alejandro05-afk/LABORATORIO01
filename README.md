@@ -1,5 +1,4 @@
 ﻿#practica01_web
-## Screenshots
+[App Screenshot](https://alejandro05-afk.github.io/LABORATORIO01/)
 
-![App Screenshot](https://alejandro05-afk.github.io/LABORATORIO01/)
 
